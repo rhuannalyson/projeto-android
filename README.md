@@ -1,5 +1,6 @@
-Quer dar uma olhadinha em como ficou esse projeto?
+Quer saber como ficou esse projeto?
 
-Acessa aqui esse <a href= "https://rhuannalyson.github.io/projeto-android/">link<a> pra saber mais!
+Acessa esse <a href= "https://rhuannalyson.github.io/projeto-android/">link<a>!
+    Valeeeu :P
 
-    valeeeu :P
+    
